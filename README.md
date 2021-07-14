@@ -14,3 +14,7 @@ A python search in youtube. Uses ytmusicapi.
   - [ ] Add Thumbnails
   
   - [ ] Inbuilt player
+
+---
+
+**Note**: This project can go unmaintained, if I fail to respond, feel free to fork if you would like to (this would be removed when I can actively participate)
